@@ -1,0 +1,141 @@
+{
+  "theme": "night",
+
+  "properties": {
+    "name": "Greidy",
+    "description": "Flutist | Singer | Musician",
+    "alt": "Photo of Greidy",
+    "hero": "./images/daniel-castillo.png"
+  },
+
+  "Social": [
+    {
+      "label": "Email",
+      "value": "bx-envelope",
+      "link": "mailto:greidymusica2@gmail.com"
+    },
+    { "label": "Link", "value": "bx-link", "link": "" },
+    {
+      "label": "GitHub",
+      "value": "bxl-github",
+      "link": ""
+    },
+    {
+      "label": "Twitter",
+      "value": "bxl-twitter",
+      "link": "https://twitter.com/greidymusica"
+    },
+    {
+      "label": "LinkedIn",
+      "value": "bxl-linkedin",
+      "link": ""
+    },
+    {
+      "label": "Instagram",
+      "value": "bxl-instagram",
+      "link": "https://www.instagram.com/greidycastellon/"
+    },
+    { "label": "Discord", "value": "bxl-discord", "link": "" },
+    { "label": "Facebook", "value": "bxl-facebook", "link": "" },
+    { "label": "Medium", "value": "bxl-medium", "link": "" },
+    { "label": "Pinterest", "value": "bxl-pinterest", "link": "" },
+    { "label": "Snapchat", "value": "bxl-snapchat", "link": "" },
+    { "label": "Telegram", "value": "bxl-telegram", "link": "" },
+    { "label": "TikTok", "value": "bxl-tiktok", "link": "" },
+    { "label": "Twitch", "value": "bxl-twitch", "link": "" },
+    { "label": "Vimeo", "value": "bxl-vimeo", "link": "" },
+    { "label": "WhatsApp", "value": "bxl-whatsapp", "link": "" },
+    { "label": "YouTube", "value": "bxl-youtube", "link": "" },
+    { "label": "Product Hunt", "value": "bxl-product-hunt", "link": "" },
+    { "label": "Newsletter", "value": "bx-mail-send", "link": "" }
+  ],
+
+  "Payments": [
+    {
+      "id": "btc",
+      "label": "Bitcoin",
+      "value": "",
+      "img": "./images/payments/btc.svg"
+    },
+    {
+      "id": "card",
+      "label": "CUP",
+      "value": "9205-9598-7859-7799",
+      "img": "./images/payments/card.svg"
+    },
+    {
+      "id": "hive",
+      "label": "HIVE | HBD",
+      "value": "greid",
+      "img": "https://cryptologos.cc/logos/hive-blockchain-hive-logo.svg?v=023"
+    },
+    {
+      "id": "matic",
+      "label": "MATIC (Polygon)",
+      "value": "0x8Ec081f2ab38E8BdA5Ce7f4BeaD3CbDaCCCe55b2",
+      "img": "./images/payments/matic.svg"
+    },
+    {
+      "id": "eth",
+      "label": "ΞTH (Ethereum)",
+      "value": "0x8Ec081f2ab38E8BdA5Ce7f4BeaD3CbDaCCCe55b2",
+      "img": "./images/payments/eth.svg"
+    },
+    {
+      "id": "eth",
+      "label": "ΞTH (Optimism)",
+      "value": "0x8Ec081f2ab38E8BdA5Ce7f4BeaD3CbDaCCCe55b2",
+      "img": "./images/payments/eth.svg"
+    },
+    {
+      "id": "paypal",
+      "label": "Paypal",
+      "value": "",
+      "img": "./images/payments/paypal.svg"
+    },
+    {
+      "id": "usdt",
+      "label": "USDT (TRC20)",
+      "value": "TUu81KsyW38VLHVdW4fLiLYXawFyJ6M3N4",
+      "img": "./images/payments/usdt.svg"
+    },
+    {
+      "id": "sol",
+      "label": "Solana",
+      "value": "",
+      "img": "./images/payments/sol.svg"
+    },
+    {
+      "id": "ada",
+      "label": "ADA",
+      "value": "",
+      "img": "./images/payments/ada.svg"
+    },
+    {
+      "id": "trx",
+      "label": "Tron",
+      "value": "TUu81KsyW38VLHVdW4fLiLYXawFyJ6M3N4",
+      "img": "./images/payments/trx.svg"
+    },
+    {
+      "id": "bnb",
+      "label": "BNB (BSC)",
+      "value": "0x8Ec081f2ab38E8BdA5Ce7f4BeaD3CbDaCCCe55b2",
+      "img": "./images/payments/busd.svg"
+    },
+    {
+      "id": "qvapay",
+      "label": "QvaPay",
+      "value": "",
+      "img": "./images/payments/qvapay.svg"
+    },
+    {
+      "id": "xrp",
+      "label": "XRP",
+      "value": "",
+      "img": "./images/payments/xrp.svg"
+    },
+  ],
+
+  "googleAnalyticsId": "G-SOMEID"
+}
